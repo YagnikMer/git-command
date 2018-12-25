@@ -1,4 +1,16 @@
-CREATE EMTRY DIRECTORY
+create emtry directory
 git init
 
+-----------------------------------------------------------
+set url with local veriable.
+git remote add origin https://github.com/YagnikMer/test.git
 
+after set url we can use 
+origin = https://github.com/YagnikMer/test.git
+git push origin master
+
+we are push our code on master branch on 
+https://github.com/YagnikMer/test.git url
+or
+git push https://github.com/YagnikMer/test.git master
+----------------------------------------------------------- 
